@@ -1,58 +1,82 @@
-Privacy Policy for Home Healer Contracts (تعاقدات هوم هيلر)
-Overview
-Home Healer Contracts is a Flutter app for managing healthcare contracts. This Privacy Policy explains how we collect, use, and protect your data to comply with App Store requirements.
-Data Collection
+# Privacy Policy for Home Healer Contracts (تعاقدات هوم هيلر)
 
-Personal Information:
-Email and password for login.
-User ID for tracking contract creation.
+## 📘 Overview
 
+**Home Healer Contracts** is a Flutter application for managing healthcare contracts.
+This Privacy Policy explains how we collect, use, and protect your data to comply with App Store and Google Play requirements.
 
-Contract Data:
-Company details (name, activity, location).
-Visit details (date, time, summary).
-Manager info (name, mobile, email).
+---
 
+## 📥 Data Collection
 
-Local Storage:
-Contracts are saved offline using Hive.
+### **Personal Information**
 
+* Email and password — used for secure login.
+* User ID — used to track contract creation and ownership.
 
-No Analytics: We do not collect usage or tracking data.
+### **Contract Data**
 
-Data Usage
+* Company details: name, activity, and location.
+* Visit details: date, time, and summary.
+* Manager information: name, mobile number, and email.
 
-Authentication: Email and password verify your identity.
-Contract Management: Data is used to create, save, and sync contracts.
-Syncing: Data is sent to our server when you choose to sync.
+### **Local Storage**
 
-Data Sharing
+* Contracts are stored offline on your device using **Hive** for better performance and offline access.
 
-We do not share your data with third parties, except:
-To sync contracts with our secure backend server.
-If required by law.
+### **No Analytics**
 
+* We do **not** collect analytics, behavioral, or tracking data.
 
+---
 
-Data Security
+## 🔐 Data Usage
 
-Encryption: Data is encrypted during API sync.
-Local Storage: Hive securely stores data on your device.
-Access: Only authenticated users can access their data.
+* **Authentication:** Used to verify your identity during login.
+* **Contract Management:** Used to create, save, and sync contracts.
+* **Syncing:** Data is transmitted securely to our backend server only when you choose to sync manually.
 
-User Rights
+---
 
-Access/Delete: Contact us to view or delete your data.
-Logout: Clears session data from the device.
+## 🔄 Data Sharing
 
-Children's Privacy
+We **do not share** your personal data with any third parties except in the following cases:
 
-This app is not intended for users under 13. We do not knowingly collect data from children.
+* To sync your contracts with our **secure backend server**.
+* When required by **law** or legal processes.
 
-Changes to Policy
+---
 
-We may update this policy. Check the app or GitHub for the latest version.
+## 🛡️ Data Security
 
-Contact
+* **Encryption:** All data is encrypted during transmission (API sync).
+* **Local Storage:** Hive securely stores data locally on your device.
+* **Access Control:** Only authenticated users can access their own data.
 
-Email: algzeryahmed14@gmail.com
+---
+
+## 👤 User Rights
+
+* **Access or Delete Data:** You can contact us anytime to view or permanently delete your data.
+* **Logout:** Logging out clears all session data from your device.
+
+---
+
+## 👶 Children’s Privacy
+
+This app is **not intended for users under 13 years old**.
+We do not knowingly collect or store personal data from children.
+
+---
+
+## 🔄 Changes to This Policy
+
+We may update this Privacy Policy periodically.
+The latest version will always be available in the app or on our GitHub repository.
+
+---
+
+## 📧 Contact
+
+If you have any questions about this Privacy Policy, contact us at:
+**Email:** [algzeryahmed14@gmail.com](mailto:algzeryahmed14@gmail.com)
